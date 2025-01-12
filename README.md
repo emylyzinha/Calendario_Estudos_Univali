@@ -1,26 +1,19 @@
 # Calendário Estudos  
 
 ### Funcionalidades  
-1. **Cadastro de Disciplinas:**  
-   - Permite adicionar novas disciplinas ao calendário acadêmico.  
+1. **Cadastro de Disciplinas:** Permite adicionar novas disciplinas ao calendário acadêmico.  
 
-2. **Cadastro de Eventos:**  
-   - Associa eventos específicos (provas, trabalhos e seminários) a uma disciplina cadastrada.  
+2. **Cadastro de Eventos:** Associa eventos específicos (provas, trabalhos e seminários) a uma disciplina cadastrada.  
 
-3. **Histórico Geral por Disciplina:**  
-   - Exibe um resumo completo de todos os eventos registrados em uma disciplina.  
+3. **Histórico Geral por Disciplina:** Exibe um resumo completo de todos os eventos registrados em uma disciplina.  
 
-4. **Histórico Específico:**  
-   - Exibe separadamente os históricos de provas, trabalhos ou seminários relacionados a uma disciplina.  
+4. **Histórico Específico:** Exibe separadamente os históricos de provas, trabalhos ou seminários relacionados a uma disciplina.  
 
-5. **Busca por Eventos do Mês:**  
-   - Permite consultar eventos cadastrados em um mês específico, organizando as atividades acadêmicas.  
+5. **Busca por Eventos do Mês:** Permite consultar eventos cadastrados em um mês específico, organizando as atividades acadêmicas.  
 
-6. **Armazenamento em Arquivo:**  
-   - Salva os dados de disciplinas e eventos em um arquivo para consulta posterior.  
+6. **Armazenamento em Arquivo:** Salva os dados de disciplinas e eventos em um arquivo para consulta posterior.  
 
-7. **Interface de Menu Interativa:**  
-   - Menu estruturado para facilitar a navegação entre as funcionalidades.  
+7. **Interface de Menu Interativa:** Menu estruturado para facilitar a navegação entre as funcionalidades.  
 
 ---
 
